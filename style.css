@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    background-color: blue;
+    text-align: center;
+    padding: 10px 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    box-shadow: 10px 10px 30px black;
+}
